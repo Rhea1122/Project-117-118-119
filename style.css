@@ -1,0 +1,40 @@
+body
+{
+  background-image:linear-gradient(rgb(195, 0, 255) 0%,rgb(255, 255, 255) 100%);
+}
+#timer
+{
+  font-size: larger;
+  margin-left: 20px;
+  float: right;
+  margin-right: 15px;
+}
+#sketch_to_be_drawn
+{
+  color: black;
+  text-shadow: cadetblue;
+}
+h1
+{
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  color:brown
+}
+
+canvas 
+  {
+    border:8px solid blueviolet;
+    border-radius:25px;
+    border-style: groove;
+    margin-top:150px;
+}
+#score{
+    margin-left: 20px;
+    float: left;
+}
+p, span
+{
+    padding-top:10px;
+    font-family: 'Special Elite', fantasy;
+    font-size:25px;
+    text-align: center;
+}
